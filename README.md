@@ -30,3 +30,8 @@ Tugas Pratikum
 
 *Kesimpulan
 >Inheritance adalah konsep dalam pemograman berorientasi objek yang memungkinkan untuk membuat suatu klass yang berdasarkan pada kelas yang ada sehingga diwarisi semua metode dan variabelnya.
+
+
+*Special Challenge (Susah + Lama Pengerjaannya)*
+>Make a Kasir script
+![Alt Text](https://github.com/lethanfadlil/JobSheet-PBO3/blob/master/challenge%20kasir.png)
